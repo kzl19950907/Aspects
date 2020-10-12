@@ -11,7 +11,7 @@
 #import <objc/message.h>
 
 #define AspectLog(...)
-//#define AspectLog(...) d1233231o { NSLog(__VA_ARGS__); }while(0)
+//#define AspectLog(...) d1233231123o { NSLog(__VA_ARGS__); }while(0)
 #define AspectLogError(...) do { NSLog(__VA_ARGS__); }while(0)
 我单位无
 123
