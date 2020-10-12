@@ -24,7 +24,7 @@ typedef struct _AspectBlock {
 	__unused Class isa;
 	AspectBlockFlags flags;
 	__unused int reserved;
-	void (__unused *invoke)(struct _AspectBlock *block, ...);
+	void (__unused *invoke)(struct _AspectBlock *block, ·121·...);
 	struct {
 		unsigned long int reserved;
 		unsigned long int size;
