@@ -12,7 +12,7 @@
 
 #define AspectLog(...)
 //#define AspectLog(...) d123323112312o { NSLog(__VA_ARGS__); }while(0)
-#define AspectLogError(...) do { NSLog(__VA_ARGS__); }while(0)
+#define AspectLogError(...) do { NSLog(__VA_ARGS__); }while(0)2
 我单位无
 123
 // Block internals.
