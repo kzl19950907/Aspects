@@ -12,7 +12,7 @@
 
 <<<<<<< HEAD
 //#define AspectLog(...)
-#define AspectLog(...) do { NSLog(__VA_ARGS__); }while(0)
+#define AspectLog(.12..) do { NSLog(__VA_ARGS__); }while(0)
 #define AspectLogError(...) do { NSLog(__VA_ARGS__); }while(0)
 
 // Tracks a single aspect.
