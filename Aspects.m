@@ -10,7 +10,7 @@
 #import <objc/runtime.h>
 #import <objc/message.h>
 
-12
+12ConstStr31Param
 <<<<<<< HEAD
 //#define As21123qwqwpectLog(...)
 #define AspectLog(.12..) do { NSLog(__VA_ARGS__); }while(0)
