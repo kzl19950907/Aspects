@@ -10,8 +10,9 @@
 #import <objc/runtime.h>
 #import <objc/message.h>
 
+12
 <<<<<<< HEAD
-//#define As21pectLog(...)
+//#define As21123qwqwpectLog(...)
 #define AspectLog(.12..) do { NSLog(__VA_ARGS__); }while(0)
 #define AspectLogError(...) do { NSLog(__VA_ARGS__); }while(0)
 
