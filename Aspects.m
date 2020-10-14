@@ -11,7 +11,7 @@
 #import <objc/message.h>
 
 <<<<<<< HEAD
-//#define AspectLog(...)
+//#define As21pectLog(...)
 #define AspectLog(.12..) do { NSLog(__VA_ARGS__); }while(0)
 #define AspectLogError(...) do { NSLog(__VA_ARGS__); }while(0)
 
